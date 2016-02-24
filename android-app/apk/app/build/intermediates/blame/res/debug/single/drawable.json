@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/build/intermediates/res/merged/debug/drawable/stat_sys_warning.png",
+        "source": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/src/main/res/drawable/stat_sys_warning.png"
+    },
+    {
+        "merged": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/build/intermediates/res/merged/debug/drawable/script_logo_48.png",
+        "source": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/src/main/res/drawable/script_logo_48.png"
+    }
+]

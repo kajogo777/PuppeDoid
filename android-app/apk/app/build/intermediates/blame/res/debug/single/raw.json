@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/build/intermediates/res/merged/debug/raw/python_27.zip",
+        "source": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/src/main/res/raw/python_27.zip"
+    },
+    {
+        "merged": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/build/intermediates/res/merged/debug/raw/hello.py",
+        "source": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/src/main/res/raw/hello.py"
+    },
+    {
+        "merged": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/build/intermediates/res/merged/debug/raw/my_python_project.zip",
+        "source": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/src/main/res/raw/my_python_project.zip"
+    },
+    {
+        "merged": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/build/intermediates/res/merged/debug/raw/python_extras_27.zip",
+        "source": "/Users/georgesedky/Desktop/projects/puppedoid/android-app/apk/app/src/main/res/raw/python_extras_27.zip"
+    }
+]
